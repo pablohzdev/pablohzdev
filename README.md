@@ -26,6 +26,3 @@ I'm a **Self-Taught Full-Stack Developer** in the making, currently documenting 
 ## 🛠️ Tech Stack
 - **Currently Mastering:** HTML5, CSS3, Git, and GitHub.
 - **Future Goals:** JavaScript, React, and Node.js.
-
----
-*"Consistency beats talent when talent doesn't stay consistent."*
