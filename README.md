@@ -1,5 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZndueGZ3bmZqZndueGZ3bmZqZndueGZ3bmZqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力をZpbmcmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
    <h3 align="center">¡Hey! I'm Pablohzdev 👨🏻‍💻</h3>
 </p>
 
